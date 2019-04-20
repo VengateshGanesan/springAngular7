@@ -1,3 +1,4 @@
+//DAO class
 package com.vengatesh.spring.dao;
 
 import java.util.List;
